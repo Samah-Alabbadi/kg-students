@@ -1,6 +1,7 @@
 # kg_students
 
-A new Flutter project.
+kg is an app that enables kids between from one to five years to learn with fun the basic concepts for these ages: learn colours, alphabets and adding and subtraction operations on small numbers. Also, it provides a list of websites that gives nice content to learn.
+
 
 ## Getting Started
 
